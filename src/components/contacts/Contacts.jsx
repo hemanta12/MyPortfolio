@@ -30,14 +30,14 @@ const Contacts = () => {
                         <MdOutlineEmail className='contact__option-icon' />
                         <h4>Email</h4>
                         <h5>hemanthappy4@gmail.com</h5>
-                        <a href="mailto:hemanthappy4@gmail.com" target='_blank'>Send a message</a>
+                        <a href="mailto:hemanthappy4@gmail.com" target='_blank' rel='noreferer'>Send a message</a>
                     </article>
 
                     <article className="contact__option">
                         <IoIosText className='contact__option-icon' />
                         <h4>Text</h4>
                         <h5>+1(415)-939-4989</h5>
-                        <a href="" target='_blank'>Send a message</a>
+                        <a href="#" target='_blank'>Send a message</a>
                     </article>
 
 
